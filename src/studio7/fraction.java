@@ -18,7 +18,7 @@ public class fraction {
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		fraction one = new fraction (2.3);
+		fraction one = new fraction (2,3);
 		fraction two = new fraction (4,5);
 		one.sum(one, two);
 	}
